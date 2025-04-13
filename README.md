@@ -73,14 +73,3 @@ This dashboard demonstrates how data can be transformed into **business-ready vi
 
 ---
 
----
-
-## 🙋‍♂️ Author
-
-**Pranay**  
-*Aspiring Data Analyst | Storytelling with Data*
-
-[Connect on LinkedIn](https://www.linkedin.com/) *(https://www.linkedin.com/in/pranay-mody-13b849234/)*  
-[View My Portfolio](https://your-portfolio-link.com/) *(https://codex-enigma.github.io/Analyst-Portfolio-/)*
-
----
